@@ -1,0 +1,18 @@
+/*
+*****************************************************************************
+Reflection
+Workshop - #9
+Full Name : Karan Yatinbhai Dalsania
+Student ID# : 171553217
+Email : kdalsania@myseneca.ca
+Section : ZAA
+
+Authenticity Declaration :
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider.This submitted
+piece of work is entirely of my own creation.
+* ****************************************************************************
+*/
+
+This was a very confusing milestone because of the loading function that was very hard because it was just returning the last index of the vehicle pointer 
+not the null value i solved that by making a temp variable and then assign the data from the temp to the actual vehicle pointer.
